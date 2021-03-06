@@ -21,8 +21,8 @@
 title: The Hacked Site
 email: rahulmishra102000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The hacked site is a bloging website whose niche is cyber security, programming and bug hunting.
-  My main purpose of making this bloging website is to contribute to the socitry and help other people
+  The hacked site is a blogging website whose niche is cyber security, programming and bug hunting.
+  My main purpose of making this blogging website is to contribute to the socitry and help other people
   who are finding some answers and want to explore this field.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
