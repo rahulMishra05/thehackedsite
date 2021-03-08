@@ -8,17 +8,17 @@ categories: Shell Script
 
 *Before diving into the development phase let’s clear some concepts and terminologies.*
 
-**What is encryption?**
+**What is encryption?**\
 Encryption is a way of scrambling data so that only authorized parties can understand the information. In technical terms, it is the process of converting human-readable plaintext to incomprehensible text, also known as ciphertext. In simple terms, encryption takes readable data and alters it so that it appears random. Encryption requires the use of a cryptographic key. It is a set of mathematical values that both the sender and the recipient of an encrypted message agree on.
 
-**What is decryption?**
+**What is decryption?**\
 The conversion of encrypted data into its original form is called decryption. It is generally a reverse process of encryption. It decodes the encrypted information so that an authorized user can only decrypt the data because decryption requires a secret key or password.
 
 Now that you have a basic understanding of encryption and decryption, the image of this project is becoming clear, but now you want to know that how will we do this. So for that we will be using GPG, and you will be thinking that what this **GPG** is.
-GPG or GnuPG, stands for GNU Privacy Guard. GPG is a different implementation of the open PGP standard and a strong alternative to Symantec’s official PGP software.
+GPG or GnuPG, stands for GNU Privacy Guard. GPG is a different implementation of the open PGP standard and a strong alternative to Symantec’s official PGP software.\
 GPG is defined by RFC 4880 *(the official name for the Open GPG standard.)* The GPG project provides the tools and libraries to allow users to integrate encryption with emails and operating systems like Linux. GPG can open and decrypt files encrypted by PGP or open PGP, meaning it works well with other products.
 
-*Enough theory let’s start coding our file encrypter and decrypter.*
+*Enough theory let’s start coding our file encrypter and decrypter.*\
 1. Step one make a shell script file using touch command and give whatever name you want to give it. I am giving it [encrypt.sh](https://github.com/rahulMishra05/file_encrypter_decrypter/blob/main/encrypt.sh)
     ```shell
     touch encrypt.sh
@@ -77,7 +77,7 @@ The code for file encryption and decryption completed. You can also see the comp
 **If you have any doubt, question, quires related to this article or just want to share something with me, than please feel free to contact me.**
 
 ### 🖥 My other blogs
-[Dev.to](https://dev.to/rahulmishra05)
+[Dev.to](https://dev.to/rahulmishra05),
 [Hashnode](https://hashnode.com/@programmingport)
 
 ### 📱 Contact Me
