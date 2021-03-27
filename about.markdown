@@ -17,7 +17,7 @@ That's not all of I also like to do some stuff other than coding, such as I like
 
 That's all about me, you can connect with me on [Twitter](https://twitter.com/r_mishra10), [Telegram](https://t.me/rahul_mishra10), [LinkedIn](https://www.linkedin.com/in/rahul-mishra-66210b185), [Instagram](https://www.instagram.com/rahul_mishra10/?hl=en) and can share your thoughts about this webiste or opinion about it and anything you want to share. Feel free to do so, I will be very happy to have some responce from your side.
 
-[My portfolio](https://rahul-mishra.netlify.app/)\
+<!-- [My portfolio](https://rahul-mishra.netlify.app/)\ -->
 Also check my blog on [Dev.to](https://dev.to/rahulmishra05) and [Hashnode](https://hashnode.com/@programmingport)
 
 So, take care and keep learning 😇\
