@@ -2,7 +2,7 @@
 layout: post
 title: "CSRF and SSRF"
 date:   2021-03-27 13:50:50 +0530
-categories: Shell Script
+categories: Bug Bounty
 ---
 **In this article we going to learn about CSRF and SSRF, both of these vulnerabilities take advantage of how server process URLs. These are very common and well known vulnerabilities and understanding about these vulnerabilities is very important for web application penetration testing.** 
 
