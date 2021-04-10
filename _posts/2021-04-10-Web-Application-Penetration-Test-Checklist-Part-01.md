@@ -7,7 +7,7 @@ categories: Bug Bounty
 
 **In this article I am going to share a checklist which you can use when you are doing a penetration test on a website, you can also use this list as a reference in bug bounties. This is beginner’s friendly list, so they can look it for reference.**
 
-*Before stating the list I want to make something clear, that before you start using this list for finding bugs/vulnerabilities make sure that you have already completed the first step which is “Reconnaissance”. Otherwise you will find it hard to find bug/vulnerabilities.*
+*Before stating the list I want to make something clear, that before you start using this list for finding bugs/vulnerabilities make sure that you have already completed the first step which is **Reconnaissance**. Otherwise you will find it hard to find bug/vulnerabilities.*
 
 *You are not genius! Remember this thing, so if you don’t understand something just Google about it and so some research, I also don’t know everything and there could be things that I have missed, so don’t worry and keep learning.*
 
