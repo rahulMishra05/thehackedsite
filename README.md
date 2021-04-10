@@ -15,11 +15,11 @@ That's all about me, you can connect with me on [Twitter](https://twitter.com/r_
 
 ## 📋 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Application Penetration Test Checklist | Part - 01](https://dev.to/rahulmishra05/web-application-penetration-test-checklist-part-01-4bf)
 - [Amass: A Beginner's Guide For Reconnaissance](https://dev.to/rahulmishra05/amass-a-beginner-s-guide-for-reconnaissance-4a0p)
 - [CSRF & SSRF](https://dev.to/rahulmishra05/csrf-ssrf-2enp)
 - [File Encrypter and Decrypter](https://dev.to/rahulmishra05/file-encrypter-and-decrypter-10mo)
 - [Thrashing | Operating System - M05 P16](https://dev.to/rahulmishra05/thrashing-operating-system-m05-p16-463a)
-- [Question on Inverted Paging | Operating System - M05 P15](https://dev.to/rahulmishra05/question-on-inverted-paging-operating-system-m05-p15-4pii)
 <!-- BLOG-POST-LIST:END -->
 
 [My portfolio](https://rahul-mishra.netlify.app/)\
