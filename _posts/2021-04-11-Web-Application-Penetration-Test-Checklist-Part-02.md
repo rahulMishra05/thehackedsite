@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Web Application Penetration Test Checklist | Part - 01"
-date:   2021-04-10 13:00:05 +0530
+title: "Web Application Penetration Test Checklist | Part - 02"
+date:   2021-04-11 13:33:05 +0530
 categories: Bug Bounty
 ---
 **In this article I am going to share a checklist which you can use when you are doing a penetration test on a website, you can also use this list as a reference in bug bounties. This list is made for intermediates, so they can look it for reference.**
